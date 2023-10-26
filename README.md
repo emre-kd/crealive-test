@@ -14,3 +14,4 @@
 # Top bar navigation yapıldı
 # Blogs ve categories secondary id düzenlemeleri yapıldı
 
+## yönetim paneli email şifre | admin@admin.com 12345678 
